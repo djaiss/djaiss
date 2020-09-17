@@ -2,9 +2,9 @@
 
 I build tools that help people have a better life. I work mainly on two projects to achieve this goal
 
-- 🚀 Creator of [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with over 40 000+ users and installed on 20k+ servers.
-- 🚜 Working on [OfficeLife](https://github.com/djaiss/officelife), a tool that will help companies manage what's going on inside their walls.
-- 🔭 Software Engineer by passion.
-- 📫 How to reach me:
+- 🚀 &nbsp; Creator of [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with over 40 000+ users and installed on 20k+ servers.
+- 🚜  &nbsp; Working on [OfficeLife](https://github.com/djaiss/officelife), a tool that will help companies manage what's going on inside their walls.
+- 🔭  &nbsp; Software Engineer by passion.
+- 📫  &nbsp; How to reach me:
     - [@djaiss](https://twitter.com/djaiss)
     - [My blog](https://regisfreyd.com)
