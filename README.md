@@ -1,10 +1,19 @@
 <a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=djaiss&show_icons=true" align="right" height="150" /></a>
 
-I build tools that help people have a better life. I work mainly on two projects to achieve this goal
+Hey, I’m Régis.
 
-- 🚀 &nbsp; Creator of [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with over 40 000+ users and installed on 20k+ servers.
-- 🚜  &nbsp; Working on [OfficeLife](https://github.com/djaiss/officelife), a tool that will help companies manage what's going on inside their walls.
-- 🔭  &nbsp; Software Engineer by passion.
-- 📫  &nbsp; How to reach me:
-    - [@djaiss](https://twitter.com/djaiss)
-    - [My blog](https://regisfreyd.com)
+I’m a product designer and full stack developer, currently living in Montréal. I build tools that help people have a better life. I work mainly on two projects to achieve this goal.
+
+- 🚀 &nbsp; I’ve created [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with over 40 000+ users and installed on 20k+ servers.
+- 🚜  &nbsp; I’m currently working on [OfficeLife](https://github.com/djaiss/officelife), the only tool a company will ever need to manage their employees.
+
+### Where to find me
+
+[My personal website](https://regisfreyd.com) →<br />
+[@djaiss on Twitter](https://twitter.com/djaiss) →
+
+### Open source work
+
+Everything I do is in the open. I’ve created many popular repositories on GitHub and give away my code for free, either in MIT or BSD-3 licenses. I strongly believe that open source helps us create better tools.
+
+👏 Thanks for visiting this page and have a great day!
