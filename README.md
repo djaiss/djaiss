@@ -1,6 +1,6 @@
 <a href="https://github.com/djaiss"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=djaiss&show_icons=true" align="right" height="150" /></a>
 
-Hey, I’m Régis.
+🖖
 
 I’m a developer living in Montréal. I build tools that help people have a better life, in their personal and/or professional lives. I work mainly on two projects to achieve this goal.
 
@@ -9,11 +9,8 @@ I’m a developer living in Montréal. I build tools that help people have a bet
 
 ### Where to find me
 
-[My personal website](https://regisfreyd.com) →<br /><br />
-[@djaiss on Twitter](https://twitter.com/djaiss) →
+[@mazarin on Twitter](https://twitter.com/mazarin) →
 
 👏 Thanks for visiting this page and have a great day!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djaiss&" alt="djaiss" /></p>
-
-Request ID: 02042022/9130521
