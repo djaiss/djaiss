@@ -9,7 +9,7 @@ I’m a developer living in Montréal. I build tools that help people have a bet
 
 ### Where to find me
 
-[@mazarin on Twitter](https://twitter.com/mazarin) →
+[@maazarin on Twitter](https://twitter.com/mazarin) →
 
 👏 Thanks for visiting this page and have a great day!
 
