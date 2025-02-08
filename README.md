@@ -2,11 +2,7 @@
 
 🖖
 
-I’m a developer living in Montréal. I build tools that help people have a better life, in their personal and/or professional lives. I work mainly on two projects to achieve this goal.
-
-- 🚀 &nbsp; I’ve created [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with ten of thousands of users and installed on 20k+ servers.
-- 🚜  &nbsp; I’m also working on [OfficeLife](https://github.com/officelifehq/officelife), the only tool a company will ever need to manage their employees.
-
+I’m a developer living in Montréal. I build tools that help people have a better life. I work mainly on [Monica](https://github.com/monicahq/monica), the most popular open source personal CRM, with ten of thousands of users and installed on 20k+ servers.
 
 ### Where to find me
 
